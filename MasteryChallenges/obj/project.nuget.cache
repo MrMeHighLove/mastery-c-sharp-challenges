@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TMLGYx9M+r4=",
+  "success": true,
+  "projectFilePath": "/Users/victormihailov/projects/c-sharp-challenges/MasteryChallenges/MasteryChallenges.csproj",
+  "expectedPackageFiles": [
+    "/Users/victormihailov/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0-rc.1.25451.107/microsoft.aspnetcore.openapi.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "/Users/victormihailov/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

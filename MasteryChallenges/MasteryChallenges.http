@@ -1,0 +1,6 @@
+@MasteryChallenges_HostAddress = http://localhost:5064
+
+GET {{MasteryChallenges_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
